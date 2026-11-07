@@ -5,6 +5,6 @@
     "email": "agustinkoyl@gmail.com"
   },
   "record": {
-    "CNAME": "ros-cambo-gateway.agustinkoyl.workers.dev"
+    "CNAME": "https://ros.agustinkoyl.workers.dev/"
   }
 }

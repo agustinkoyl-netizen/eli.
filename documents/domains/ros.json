@@ -1,1 +1,10 @@
 
+{
+  "owner": {
+    "username": "agustinkoyl",
+    "email": "agustinkoyl@gmail.com"
+  },
+  "record": {
+    "CNAME": "ros-cambo-gateway.agustinkoyl.workers.dev"
+  }
+}
